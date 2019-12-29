@@ -3,6 +3,8 @@
 Es un conjunto de funciones que permiten implementar una *Planilla Ford T* usando [https://jupyter.org](JupyterLab). 
 También contiene funciones para obtener datos de *Rodi*.  
 
+Sobre la *Planilla Ford T*: es la denominación que le puso Francisco Mancuso a su planilla básica (básica en comparación con la de @gcutte) para operar opciones [https://www.youtube.com/watch?v=oArjAhDeRaw](https://www.youtube.com/watch?v=oArjAhDeRaw).  
+
 ## Modo de uso
 
 Aquellos entendidos en Python pueden usar las funciones diréctamente desde línea de comandos, 
