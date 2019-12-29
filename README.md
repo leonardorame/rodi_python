@@ -66,3 +66,6 @@ trades=[
 getResults(trades)
 ```
 
+Debería quedar así:  
+
+![ejemplo](capturas/ejemplo.png)
